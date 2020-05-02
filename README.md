@@ -9,8 +9,8 @@ https://youtu.be/kCHJ54wt7LY
 
 # Parts required:
 - Omni-directional wheels
-- Motors
-- Motor driver
+- 4 Motors
+- 4 Motor drivers
 - Arduino board
 - HC05 Bluetooth module
 - Jumper wires
